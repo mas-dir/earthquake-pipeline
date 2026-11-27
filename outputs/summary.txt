@@ -1,0 +1,20 @@
+Earthquake summary, Indonesia, 2026-10-28 to 2026-11-27
+Total events (M4.0+): 80
+Largest: M6.6, 147 km WSW of Tual, Indonesia, 2026-11-17 04:11 WIB
+Average magnitude: 4.66
+Median depth: 35.0 km
+
+By region:
+region
+Maluku                  42
+Bali & Nusa Tenggara    13
+Sumatra                  8
+Sulawesi                 7
+Papua                    6
+Java                     4
+
+By depth class:
+depth_class
+Shallow (<70 km)            53
+Intermediate (70-300 km)    22
+Deep (>300 km)               5

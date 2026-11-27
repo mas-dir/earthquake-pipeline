@@ -1,0 +1,16 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated data (re-created by the pipeline)
+data/raw/
+data/processed/
+data/external/
+logs/
+
+# Editor / OS files
+.vscode/
+Thumbs.db
+desktop.ini
